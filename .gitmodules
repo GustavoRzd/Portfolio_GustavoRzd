@@ -1,0 +1,18 @@
+[submodule "JogoDaVelha"]
+	path = JogoDaVelha
+	url = https://github.com/GustavoRzd/JogoDaVelha
+[submodule "Achando_emprego"]
+	path = Achando_emprego
+	url = https://github.com/GustavoRzd/Achando_emprego
+[submodule "Calculadora.js"]
+	path = Calculadora.js
+	url = https://github.com/GustavoRzd/Calculadora.js
+[submodule "Quiz-Game"]
+	path = Quiz-Game
+	url = https://github.com/GustavoRzd/Quiz-Game
+[submodule "Projeto-Strata"]
+	path = Projeto-Strata
+	url = https://github.com/GustavoRzd/Projeto-Strata
+[submodule "Projeto-Fashion"]
+	path = Projeto-Fashion
+	url = https://github.com/GustavoRzd/Projeto-Fashion
