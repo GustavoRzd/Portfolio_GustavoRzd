@@ -1,0 +1,174 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c5c3c3b5;
+}
+#principal{
+    width: 1024px;
+    margin: 20px auto;
+}
+/*------------------ HEADER-----------------*/
+.header-top{
+    height: 60px;
+    background: #040404;
+    position: relative;
+}
+#logotipo{
+    margin: 5px 0 0 10px;
+    height: 50px;
+}
+.header-nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+
+}
+.header-nav ul{
+    margin: 0;
+    padding: 0;
+}
+.header-nav li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 0 15px 0 0;
+    padding: 15px;
+}
+.header-nav a{
+    color: #7d7d7d;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 5px;
+    transition: color .3s linear;
+}
+.header-nav a:hover{
+    color: white;
+}
+/*------------------ MAIN-----------------*/
+.portfolio{
+    padding: 50px 100px;
+    text-align: center;
+}
+.portfolio h1{
+    font-size: 36px;
+    color: #252525;
+}
+.portfolio p{
+    font-size: 16px;
+    line-height: 32px;
+    color: #555
+}
+#h1projprinc{
+    text-align: center;
+    font-size: 36px;
+    color: #252525;
+}
+.gallery,.gallery1{
+    color: #555;
+    padding: 0 100px 50px 100px;
+    overflow: auto;
+}
+.gallery-card{
+    width:32%;
+    float: left;
+    text-align: center;
+}
+.gallery-title{
+    text-transform:uppercase;
+    letter-spacing: 4px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.gallery-title:hover{
+    color: #040404;
+}
+#jobfinder, #fashion, #strata, #quiz,#velha, #calcu{
+    height: 150px;
+    width: 250px;
+}
+
+#pprojprinc{
+    font-size: 16px;
+    line-height: 32px;
+    color: #555;
+    margin-top: 40%;
+    text-align: center;
+
+}
+.about, .aboutme{
+    background-color: #000000;
+    color: white;
+    padding: 100px;
+    background-repeat:no-repeat;
+    background-position: right bottom;
+    }
+.about h2, .aboutme h2{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: normal;
+}
+.about p, .aboutme p{
+    line-height: 1.5;
+    width: 70%;
+margin-bottom: 5%;
+}
+.aboutme{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+#contact{
+    margin: px 0;
+}
+
+#contact address:hover{
+    color: #020440;
+  }
+  #contact address{
+    color: #070707;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.maps{
+    width: 100%;
+    height: 450px;
+    margin-top: 15px;
+}
+.maps iframe{
+    width: 100%;
+}
+.ul-icons, .icon-link{
+    list-style-type:none;
+    padding-left:0;
+  }
+  .ul-icons li, .icon-link{
+    display: inline-block;
+    font-size: 2em;
+    color: #030303
+  }
+ a{
+    text-decoration: none;
+   color: #030303;
+  }
+  #imgus{
+    height: 250px;
+    width: 250px;
+    border-radius: 25%;
+  }
+/*------------------ RODAPÉ-----------------*/
+.rodape{
+    background-color: #070707;
+    padding: 25px;
+    font-size: 12px;
+    color: #a6a6a7;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 5%;
+
+}
