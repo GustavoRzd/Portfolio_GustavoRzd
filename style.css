@@ -36,7 +36,7 @@ body{
     padding: 15px;
 }
 .header-nav a{
-    color: #7d7d7d;
+    color: #aeaeae;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 12px;
@@ -108,11 +108,13 @@ body{
     text-transform: uppercase;
     font-size: 25px;
     font-weight: normal;
+    margin-bottom:2%
 }
 .about p, .aboutme p{
     line-height: 1.5;
+    font-size: 15px;
     width: 70%;
-margin-bottom: 5%;
+    margin-bottom:5%;
 }
 .aboutme{
     margin-top: 15%;
