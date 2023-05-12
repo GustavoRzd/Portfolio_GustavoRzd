@@ -164,8 +164,8 @@ body{
     border-radius: 25%;
   }
 
-   #linguagens{
-    font-size: 10px;
+   #linguagens li{
+    font-size: 20px;
     }
 /*------------------ RODAPÉ-----------------*/
 .rodape{
