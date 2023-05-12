@@ -163,6 +163,10 @@ body{
     width: 250px;
     border-radius: 25%;
   }
+
+   #linguagens{
+    font-size: 1em;
+    }
 /*------------------ RODAPÉ-----------------*/
 .rodape{
     background-color: #070707;
